@@ -1,7 +1,7 @@
 Onsem Android releases
 ======================
 
-Maven repository for the Onsem Android releases\n
+Maven repository for the Onsem Android releases<br/>
 Url of the project: https://github.com/carloacu/onsem-android
 
 
